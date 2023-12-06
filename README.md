@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **ALX Software Engineering course and Bachelors degree in computer science at Daystar Universiy**
 
-- 💬 Ask me about **Software Development, Devops, Networking, Database Management, CyberSecurity.,**
+- 💬 Ask me about **Software Development, Devops, Networking, Database Management and CyberSecurity.**
 
-- 📫 How to reach me **jastinagaziva@gmail.com**
+- 📫 How to reach me: **jastinagaziva@gmail.com**
 
-- ⚡ Fun fact **I am a tech enthusiast and fast at adopting new technologies**
+- ⚡ Fun fact **I am a tech enthusiast and Curious at Learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
