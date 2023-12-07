@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/agazivajastin" target="blank"><img src="https://img.shields.io/twitter/follow/agazivajastin?logo=twitter&style=for-the-badge" alt="agazivajastin" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb Clone**
+- 🔭 I’m currently working on **Airbnb Clone Project**
 
 - 🌱 I’m currently learning **ALX Software Engineering course and Bachelors degree in computer science at Daystar Universiy**
 
