@@ -1,4 +1,4 @@
-![image](https://github.com/JastinAG/JastinAG/assets/101855805/2a2b1222-9eb1-48b5-91d0-d41e92ddc3f8)<h1 align="center">Hi 👋, I'm Jastin Agaziva</h1>
+<h1 align="center">Hi 👋, I'm Jastin Agaziva</h1>
 <h3 align="center">I am a passionate software engineer and a computer Science student at Daystar University.</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47ht37o5wtswshzcvyszo4emdqnat5og8e9r8w5ftl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
