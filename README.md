@@ -12,8 +12,7 @@
 - 💬 Ask me about **Software Development, Devops, Networking, Database Management and CyberSecurity.**
 
 - 📫 How to reach me: **jastinagaziva@gmail.com**
-- ![image](https://github.com/JastinAG/JastinAG/assets/101855805/5ddd9778-94dc-45cf-9eb1-54d5bc80a26a)
- Check out my website: **https://jastin-portfolio.netlify.app**
+- ⚡ Check out my website: **https://jastin-portfolio.netlify.app**
 
 - ⚡ Fun fact **I am a tech enthusiast and Curious at Learning new technologies**
 
