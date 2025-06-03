@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jastin Agaziva</h1>
-<h3 align="center">I am a passionate software engineer and a computer Science student at Daystar University.</h3>
+<h3 align="center">I am a passionate software engineer and a computer Science graduate from Daystar University.</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47ht37o5wtswshzcvyszo4emdqnat5og8e9r8w5ftl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jastinag&label=Profile%20views&color=0e75b6&style=flat" alt="jastinag" /> </p>
